@@ -4,7 +4,6 @@
 
 Я начинающий аналитик данных.
 
-Мой стек:
 
 Использую Python для анализа данных (pandas, numpy, matplotlib, seaborn)
 
